@@ -1,0 +1,12 @@
+--- Object 1 ---
+A/C No: 1001 | Holder: Nahushraj | Balance: 5000
+Deposited 1500
+Withdrew 800
+A/C No: 1001 | Holder: Nahushraj | Balance: 5700
+
+--- Object 2 ---
+A/C No: 1002 | Holder: Jehal | Balance: 2000
+Insufficient balance.
+Invalid deposit amount.
+Deposited 500
+A/C No: 1002 | Holder: Jehal | Balance: 2500
